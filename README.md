@@ -88,7 +88,7 @@ to protect our sensitive data in our django project we use Python Decouple Libra
 find . -name “*.pyc” -print to see all files with .pyc extensions. Instead -print we also can use -delete 
 
 git Wildcard info:
-- # - marks line as a comment
+- * - marks line as a comment
 - * - matches 0 or more characters
 - ? - matches 1 character
 - [abc] - matches a, b, _or_ c
